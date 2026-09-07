@@ -1,5 +1,5 @@
 '''
-Adriano Pereira
+Adriano P
 May - June 2025
 This is a replica of Jetpack Joyride, where you dodge obstacles forever
 '''
