@@ -253,3 +253,7 @@ Potential future additions include:
 **Completed**
 
 The core gameplay systems, player movement, obstacle generation, collision detection, coin collection, power-ups, cosmetics, inventory, shop, scoring, high-score tracking, menus, tutorial, and game-state systems were implemented during development.
+
+© 2025 Adriano P. All rights reserved.
+
+This project and its source code are my original work. Please do not copy, redistribute, or reuse the code without my permission.
